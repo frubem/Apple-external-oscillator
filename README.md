@@ -1,4 +1,4 @@
-# Apple External Oscillator Board
+# Apple ][ External Oscillator Board
 
 An adapter to use a parallel resonant crystal in place of original series resonant crystal that is very difficult to find nowadays.
 
